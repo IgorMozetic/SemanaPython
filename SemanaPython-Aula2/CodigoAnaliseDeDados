@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # Passo 1: Importar base de dados
-df = pd.read_csv(r"C:\Users\crcv\Downloads\telecom_users.csv")
+df = pd.read_csv(r"\\endereço do arquivo no seu pc\\")
 
 # Passo 2: Visualizar a base de dados
 df = df.drop(columns=['Unnamed: 0', 'IDCliente', 'Codigo']) #removendo duas colunas inúteis para a análise
