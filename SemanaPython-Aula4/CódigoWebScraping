@@ -42,7 +42,7 @@ chrome.quit()
 
 # 3º passo - importar a base de dados
 
-df = pd.read_excel(r"C:\Users\crcv\Downloads\Produtos.xlsx")
+df = pd.read_excel(r"\\endereço do arquivo no seu pc\\")
 display(df)
 
 # 4º passo - atualizar os preços na base e reaizar o cálculo dos preços
