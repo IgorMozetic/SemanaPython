@@ -8,7 +8,7 @@ from sklearn import metrics
 
 # Passo 1: Extração/Obtenção de Dados
 
-df = pd.read_csv(r"C:\Users\crcv\Downloads\advertising.csv") #Lendo a base da dados
+df = pd.read_csv(r"\\endereço do arquivo no seu pc\\") #Lendo a base da dados
 display(df) #exibindo a tabela
 
 # Passo 2: Ajuste de Dados (Tratamento/Limpeza)
