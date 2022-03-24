@@ -28,14 +28,14 @@ for coluna in df:
 
 
 #Conclusão para o chefe
-- A diferença de cancelamento nos gêneros não tem muita diferença
-- Pouco menos que a metade dos aposentados canelaram nosso plano, enquanto os não aposentados, menos de 1/3 cancelaram
-- 1/3 dos solteiros cancelaram nosso plano, enquanto os casasdos pouco mias de 1/5
-- Quem não tem dependentes está cancelando muito mais dos que tem dependentes
-- A taxa de cancelamento nos 10 primeiros meses é superior aqueles que estão a mais tempo com o plano
-- Há muito mais cancelamentos naqueles que não contém os serviços que nós oferecemos
-- Contratos mensais tem alta taxa de cancelamento
-- fatura digital está cancelando mais
-- boleto eletrônico pior forma de pagamento
-- valores mensais variam muito, porém quanto mais caro, há maior cancelamento
-- Antes de gastarem R$1000,00 dentro da empresa a taxa de cancelamento é alta.
+# - A diferença de cancelamento nos gêneros não tem muita diferença
+# - Pouco menos que a metade dos aposentados canelaram nosso plano, enquanto os não aposentados, menos de 1/3 cancelaram
+# - 1/3 dos solteiros cancelaram nosso plano, enquanto os casasdos pouco mias de 1/5
+# - Quem não tem dependentes está cancelando muito mais dos que tem dependentes
+# - A taxa de cancelamento nos 10 primeiros meses é superior aqueles que estão a mais tempo com o plano
+# - Há muito mais cancelamentos naqueles que não contém os serviços que nós oferecemos
+# - Contratos mensais tem alta taxa de cancelamento
+# - fatura digital está cancelando mais
+# - boleto eletrônico pior forma de pagamento
+# - valores mensais variam muito, porém quanto mais caro, há maior cancelamento
+# - Antes de gastarem R$1000,00 dentro da empresa a taxa de cancelamento é alta.
